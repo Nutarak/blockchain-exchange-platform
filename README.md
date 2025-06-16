@@ -53,5 +53,14 @@ curl -X POST http://localhost:8080/api/users \
 获取所有用户：
 
 curl http://localhost:8080/api/users
+## ✅ 当前进度（阶段一）
+
+- [x] Spring Boot 项目搭建
+- [x] PostgreSQL 数据库连接
+- [x] 权限修复与数据库建表
+- [x] 实现用户创建与查询接口
+- [x] Curl 测试通过 ✅
+- [x] ✅ 接口响应结构标准化（ApiResponse<T>）
+- [x] ✅ 全局异常处理（GlobalExceptionHandler）
 
 
